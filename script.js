@@ -3,7 +3,7 @@ function firstChar(text) {
 	if(text){
 		 return text.trim()[0];
 	}else{
-		return "";
+		return "''";
 	}
 }
 
